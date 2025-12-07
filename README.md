@@ -17,6 +17,7 @@ It provides a simple **Gradio interface** where users can upload an image and ge
 
 ## 📁 Project Structure
 
+```plaintext
 project/
 │
 ├── dataset/ # Folder with subfolders for each class
@@ -51,7 +52,7 @@ diffusers transformers accelerate safetensors
 ### 🧩 Dataset
 
 The dataset folder should have the following structure:
-
+```plaintext
 dataset/
  ├── real/      # real-world images
  └── ai/        # AI-generated images
