@@ -27,7 +27,7 @@ project/
 ├── Real_vs_AI_Classifier_GradCAM_Gradio.ipynb # Main Jupyter Notebook
 ├── requirements.txt # Dependencies
 └── README.md
-
+```
 ---
 
 ## 🛠️ Installation
@@ -57,7 +57,7 @@ dataset/
  ├── real/      # real-world images
  └── ai/        # AI-generated images
 
-
+```
 Folder names are automatically used as labels for training.
 
 ### 🧠 Model Architecture
